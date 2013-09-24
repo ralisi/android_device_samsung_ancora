@@ -161,4 +161,7 @@ TARGET_RECOVERY_FSTAB := device/samsung/ancora/recovery.fstab
 TARGET_PREBUILT_KERNEL := device/samsung/ancora/prebuilt/zImage
 TARGET_PREBUILT_RECOVERY_KERNEL := device/samsung/ancora/recovery/zImage
 
+TARGET_KERNEL_SOURCE := kernel/samsung/samsung-kernel-msm7x30
+TARGET_KERNEL_CONFIG := ancora_defconfig
+
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/file
