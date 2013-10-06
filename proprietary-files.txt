@@ -28,7 +28,6 @@
 /lib/hw/sensors.GT-I8150.so
 
 /lib/libActionShot.so
-/lib/libakm.so
 /lib/libarccamera.so
 /lib/libaudioalsa.so
 /lib/libC2D2.so
